@@ -1,4 +1,9 @@
 <h1 align="center"> Hello, I'm Pawit Priyanto 👨‍💻 </h1>
+<p align="center">
+<a href="https://www.linkedin.com/in/pawitpriyanto/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="20" width="20"></a> &nbsp;
+  <a href="https://www.instagram.com/priantopawit" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="20" width="20"></a> &nbsp;
+   <a href="mailto:ppriyanto88@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="20" width="20"></a> &nbsp;
+</p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### 🤔 About Me
@@ -8,13 +13,6 @@
 -  **Ask me about :** Anything!, I'm happy to help ✌️
 -  **Fun fact :** When most developers love coffee ☕️, I prefer green tea 🍵
 -  **Pronouns :** He/Him/His 👦
--  **Contact :**     
-  <a href="https://www.linkedin.com/in/pawitpriyanto/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="20" width="20"></a>
-  <a href="https://www.instagram.com/priantopawit" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="20" width="20"></a>
-   <a href="mailto:ppriyanto88@gmail.com" alt="Contact me"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/gmail-512.webp" height="20" width="20"></a>
-
-
-
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### ✨ Visitors 

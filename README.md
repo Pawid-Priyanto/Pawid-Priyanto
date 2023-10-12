@@ -1,6 +1,4 @@
 <h1 align="center"> Hello, I'm Pawit Priyanto 👨‍💻 </h1>
-
-
 <p align="center">
 <a href="https://www.linkedin.com/in/pawitpriyanto/" alt="Linkedin"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/174857.png" height="20" width="20"></a> &nbsp;
   <a href="https://www.instagram.com/priantopawit" alt="Facebook"><img src="https://github.com/nitish-awasthi/nitish-awasthi/blob/master/instagram-logo-png-transparent-background-hd-3.png" height="20" width="20"></a> &nbsp;

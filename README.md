@@ -3,18 +3,19 @@
 <h3 align="center">  Frontend Engineer </h3> <br>
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/pawitpriyanto/"><img alt="LinkedIn" src="https://img.shields.io/badge/-Pawit_Priyanto-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pawitpriyanto/"></a>
-<a href="mailto:pittik14@gmail.com"><img src="https://img.shields.io/badge/-pawit@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/priantopawit"><img src="https://img.shields.io/badge/-@priantopawit-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+[![LinkedIn](https://img.shields.io/badge/-Pawit_Priyanto-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawitpriyanto/)
+[![Gmail](https://img.shields.io/badge/-pawit@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:pittik14@gmail.com)
+[![Instagram](https://img.shields.io/badge/-@priantopawit-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/priantopawit)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### 🤔 About
+### 🤔 About Me
 -  **Working :** Web Development 💻 | Frontend 👨‍💻
 -  **Learning :** React JS ⚛️ | Node JS 📦
 -  **Hobbies :** Books 📚 | Music 🎧 | Football ⚽
 -  **Ask me about :** Anything!, I'm happy to help ✌️
 -  **Fun fact :** When most developers love coffee ☕️, I prefer green tea 🍵
 -  **Pronouns :** He/Him/His 👦
+
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
